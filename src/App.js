@@ -1,7 +1,7 @@
 import React from 'react';
 import FontAwesome from 'react-fontawesome';
 import logo from './logo.svg';
-import { bubble as MenuResponsivo } from 'react-burger-menu';
+import { stack as MenuResponsivo } from 'react-burger-menu';
 import './App.css';
 
 class PaginaPrincipal extends React.Component {
